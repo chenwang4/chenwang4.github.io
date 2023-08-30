@@ -17,7 +17,7 @@ Intention Orientation</a></div>
     <div class="author"><strong>Chen Wang</strong>, Sarah Erfani, Tansu Alpcan, Christopher Leckie</div>
     <div class="periodical"><em>International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2023.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2305.12623.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://ieeexplore.ieee.org/document/10191891" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
