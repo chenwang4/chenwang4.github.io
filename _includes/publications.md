@@ -7,7 +7,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/onlineanomalyDemon.pdf" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/pub1_teaser.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">IJCNN 2023</abbr>
   </div>
 
@@ -18,6 +18,7 @@ Intention Orientation</a></div>
     <div class="periodical"><em>International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/document/10191891" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/chenwang4/IOTAD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
